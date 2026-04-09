@@ -1,0 +1,5 @@
+{
+  "name": "AgroAdvisor",
+  "description": "AI agricultural extension officer for West African smallholder farmers, providing crop stress diagnosis, planting schedules, and pest alerts.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
